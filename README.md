@@ -19,7 +19,7 @@ The final game package file size limit is 13,312 bytes.
 2015 theme is "Reversed".  
 ### TECHNICAL INFORMATION
 - Developed using  jAllegro http://jallegro.sos.gd/  
-- For dinamically create sounds I used jsfxr library https://github.com/mneubrand/jsfxr  
+- For dinamically creating sounds I used jsfxr library https://github.com/mneubrand/jsfxr  
 - As minifying tool I used http://javascript-minifier.com/ and http://cssminifier.com/ through Curl command. See build.sh for more information
 
 The code is fully commented, check it out for more information.

@@ -20,7 +20,7 @@ The final game package file size limit is 13,312 bytes.
 ### TECHNICAL INFORMATION
 - Developed using  jAllegro http://jallegro.sos.gd/  
 - For dinamically creating sounds I used jsfxr library https://github.com/mneubrand/jsfxr  
-- As minifying tool I used http://javascript-minifier.com/ and http://cssminifier.com/ through Curl command. See build.sh for more information
+- As minifying tool I used http://javascript-minifier.com/ through Curl command. See build.sh for more information
 
 The code is fully commented, check it out for more information.
 ### CREDITS

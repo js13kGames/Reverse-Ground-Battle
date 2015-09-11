@@ -4,6 +4,7 @@ Fast paced survival space shooter in which enemies have the same color of the ba
 ### HOW TO PLAY
 - Desktop: arrow keys to move, spacebar to reverse background color. M to toggle mute.
 - Mobile: tilt device to move, tap to reverse background color.
+
 ### COMPATIBILITY
 Browser compatibilities tested:  
 - Desktop: Chrome, Firefox, Opera
